@@ -68,7 +68,7 @@ class AnimationClockView @JvmOverloads constructor
         super.onDraw(canvas)
         val centerX = width / 2f
         val centerY = height / 2f
-        val radius = Math.min(centerX, centerY) - 20
+        val radius = Math.min(centerX, centerY) - 100
 
         //calling drawCircle
         paint.alpha = 255
