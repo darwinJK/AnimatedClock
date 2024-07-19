@@ -14,5 +14,10 @@ How it works:
 - The 'drawWaves' method creates a wave effect by drawing paths in a circular pattern.
 - The 'startWaveAnimation' method animates the wave effects.
 
+ Here is the  video link :
+ https://github.com/user-attachments/assets/6cda468e-8af0-49c1-be12-a53e73d957d7
+
 Dependencies :
 - No external dependencies required.
+
+  
